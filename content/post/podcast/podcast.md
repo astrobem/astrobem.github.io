@@ -17,6 +17,7 @@ https://discord.gg/aRUyUSfK
 Link do wydarzenia:
 https://discord.gg/nG4JQ54C?event=1161737182831181964
 
+
 🇬🇧</br>
 We want to invite you for a podcast with members of the AstroBem group! The podcast will take place this Saturday (14.10) on our Discord server from 7:00 p.m. to 8:00 p.m. During the broadcast, listeners will be able to ask questions about the progress of the competition and the 2024 roadmap. We'll hear from you on Saturday!
 
