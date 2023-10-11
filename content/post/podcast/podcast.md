@@ -1,6 +1,7 @@
 ---
 title: "Podcast"
 description: 
+categories: "news"
 date: 2023-10-11T21:23:51+02:00
 image: "microphone.jpg"
 math: 
