@@ -1,5 +1,6 @@
 ---
 title: About Us
+image: background.jpg
 description: A brief history about our group
 date: '2023-10-14'
 aliases:
