@@ -19,7 +19,7 @@ AstroBem to miejsce gdzie wszyscy uczniowie naszej szkoły mogą rozszerzać swo
 
 Zaczęliśym działalność w lipcu 2022 roku, biorąc udział w eksperymencie o nazwie "Obserwacja Nieba". Polegał on na obserwowaniu trajektorii drogi Słońca przez niebo na przestrzeni 6 miesięcy, używając camery obscury. Po tym nasza falicytatorka odkryła konkurs CanSat, nad którym pracujemy do dziś. 
 
-W naszym pierwszym roku pracy, zdecydowaliśmy zbadać siłę nacisku i siłę bezwładności podczas lotu rakiety i zbadać wpływ tych sił na czujniki ciśnienia i temperaturys. Był to ciężki rok dla nas, przez debiut w konkursie. Nasza ciężka praca poskutkowała wyjazdem na finały krajowe w Małopolsce. Nasza puszkowa satelita została wystrzelona przez rakietę a nasza misja się udała. Zdobyliśmy wyróżnienie od jury po prezentacji wyników.
+W naszym pierwszym roku pracy, zdecydowaliśmy zbadać siłę nacisku i siłę bezwładności podczas lotu rakiety i zbadać wpływ tych sił na czujniki ciśnienia i temperatury. Był to ciężki rok dla nas, przez debiut w konkursie. Nasza ciężka praca poskutkowała wyjazdem na finały krajowe w Małopolsce. Nasza puszkowa satelita została wystrzelona przez rakietę a nasza misja się udała. Zdobyliśmy wyróżnienie od jury po prezentacji wyników.
 
 W tym roku, także próbujemy naszych sił w CanSacie, licząc na kwalifikację do finału po raz drugi, a może nawet do finału europejskiego, by móc dumnie reprezentować nasz kraj.
 
