@@ -1,9 +1,10 @@
 ---
 title: "Podcast Update"
 description: Update on our recent podcast!
-date: 2023-10-16T14:47:11+02:00
+categories: "news"
+date: 2023-10-14T22:47:11+02:00
 image: "podcastwyniki.jpg"
-math: 
+math:
 license: 
 hidden: false
 comments: false
