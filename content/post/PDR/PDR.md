@@ -1,7 +1,7 @@
 ---
 title: "PDR sent in!"
 description:
-categories: "news"
+categories: ["news", "CanSat"]
 date: 2023-10-23T23:04:45+02:00
 image: PDR.jpg 
 math: 

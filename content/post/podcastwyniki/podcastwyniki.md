@@ -1,7 +1,7 @@
 ---
 title: "Podcast Update"
 description: Update on our recent podcast!
-categories: "news"
+categories: ["news", "CanSat"]
 date: 2023-10-14T22:47:11+02:00
 image: "podcastwyniki.jpg"
 math:
